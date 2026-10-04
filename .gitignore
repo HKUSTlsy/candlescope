@@ -1,0 +1,13 @@
+node_modules/
+.venv/
+dist/
+cache/
+.runtime/
+__pycache__/
+*.pyc
+.env*
+!.env.example
+*.csv
+shiri-backup*.json
+.DS_Store
+candlescope-backup*.json
